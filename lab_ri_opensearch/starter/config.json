@@ -1,0 +1,10 @@
+{
+  "team_id": "equipe_01",
+  "analyzer": "portuguese",
+  "bm25_k1": 1.2,
+  "bm25_b": 0.75,
+  "title_boost": 1.0,
+  "mode": "lexical",
+  "candidate_k": 100,
+  "rrf_k": 60
+}

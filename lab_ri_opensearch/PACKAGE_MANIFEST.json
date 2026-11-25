@@ -1,0 +1,29 @@
+{
+  "kind": "lab1",
+  "version": "3.0",
+  "files": {
+    "config.json": "7b09444f89fbfdf957498a9cbd4e660dfda481fecaedaef08b585d19853413b2",
+    "data/dev/corpus.jsonl": "11d03c09cc6fe841c328680a19f350a1155c8f7678329bd7f76413523313d76e",
+    "data/dev/qrels.csv": "d773e54a320451db4168d314090f3acea33c6c8ebefa3ea688db68e136e9b89e",
+    "data/dev/queries.jsonl": "e70c7b7abe3cc489b9d47092f31fbf00c416a2eaec7ecc192d31217ca32bd5f3",
+    "data/origem_v2.json": "f8f10c8305e26279d21ba617be4b3243b5064a3e5f5ef4b150c1b51e586bafaf",
+    "data/SOURCE_DATASET_CARD.md": "0c254e7f764673c07cdcb81c58d721264df09f25ebda791381de49cd18be465c",
+    "docker-compose.yml": "587b0ecd657e62e368ea2d24bdbcba9cf31216ed2571554bf52b1e278083f21d",
+    "docs/CONTRATOS_E_METRICAS.md": "a2370a4b349ed80cd24c416e935a5975ee9afb351f698faf8d820d446cea5c93",
+    "docs/FONTES.md": "f49a3d699b19f9c40df0696281a812921178d959a1cb9559853dfc33eeb6e293",
+    "LICENSE_CODE.txt": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "notebooks/00_Ambiente.ipynb": "19ffcc1944cf21fb9fc9d1442f83cf0dc790ce80b1afdfe4a07908d9aec0f5bc",
+    "NOTICE.md": "c507c6da32f0d54dcf96fe12c524eb5fbacba1ffbdfd81d337618644b86aa908",
+    "os_retrieval.py": "aeba2381162257b16cbb9a77c547f460c3688b56c2cfe8193e2e6d772d53b475",
+    "requirements.txt": "b18938eae3cb9bb32b3e29bc1d6cb0dc9539af07b705b6d422febbe218ecfce5",
+    "ri_core.py": "5b291dca3bbaca43c22c66bf98169f0815085dad186c6b25308d1eebcf8eb978",
+    "ri_workflow.py": "d63d6c417449be184d328bb83d647f483f4e0d26baff559331836aa38c3eebb8",
+    "starter/config.json": "b99f0ee5c36d0f9d795af2f6fbc2c106285866598c13d4287f7b87aaa77c4022",
+    "starter/README_EQUIPE_LAB4.md": "a2dd2ccb393bf0ab182472d27f1ce86496d85a8fdd39777e8374061fc11ea06a",
+    "starter/requirements-extra.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "starter/run.py": "ec54a940aa6f50f487053f96ec52a9eaa504a59fbe9839f4bf431d8a10b79199",
+    "verify_submission.py": "d74889e545e81f6bac6e6846128ca605416cab82545c0281adcfdd3e2bbb53c6",
+    "README.md": "0b90ba1aa6ee3b3b7aa89babb657c4dcbf9f9c9dc90f9ccb24f1c023e65aa4c7",
+    "notebooks/01_fase1.ipynb": "e12efe44926c61de69f724bc2983190ea458fed48a9d49b063b19ae7ef8d73bb"
+  }
+}
