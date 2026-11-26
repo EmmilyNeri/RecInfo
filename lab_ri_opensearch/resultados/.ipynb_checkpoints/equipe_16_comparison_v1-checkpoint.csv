@@ -1,0 +1,7 @@
+experiment,analyzer,bm25_k1,bm25_b,ndcg@10,recall@100,mrr@10
+std_k12_b075_v1,standard,1.2,0.75,0.7745,0.9667,0.7575
+pt_k12_b075_v1,portuguese,1.2,0.75,0.8513,0.9667,0.8256
+pt_k09_b040_v1,portuguese,0.9,0.4,0.8579,0.9667,0.8348
+pt_k15_b075_v1,portuguese,1.5,0.75,0.864,0.9667,0.8426
+pt_k12_b050_v1,portuguese,1.2,0.5,0.8471,0.9667,0.8198
+pt_k12_b090_v1,portuguese,1.2,0.9,0.8539,0.9667,0.8389
