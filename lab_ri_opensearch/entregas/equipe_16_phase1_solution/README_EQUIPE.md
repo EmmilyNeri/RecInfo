@@ -3,8 +3,7 @@ Integrantes:
 * Tarcisio Araujo de Oliveira - 123210061
 * Emmily Neri Araújo Almeida - 123210718
 * Maria Clara Augusta Santos - 123210361
-* 
-
+* Danilo Henrique Peixoto de Sales - 123210295
 
 ID: equipe_16
 
