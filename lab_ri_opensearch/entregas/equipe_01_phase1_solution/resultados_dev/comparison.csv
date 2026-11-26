@@ -1,2 +1,0 @@
-experiment,analyzer,bm25_k1,bm25_b,ndcg@10,recall@100,mrr@10
-lexico_v1,portuguese,1.2,0.75,0.8512687091380094,0.9666666666666667,0.8255555555555555

@@ -1,0 +1,33 @@
+{
+  "backend": "opensearch",
+  "config": {
+    "analyzer": "portuguese",
+    "bm25_b": 0.9,
+    "bm25_k1": 0.7,
+    "candidate_k": 100,
+    "mode": "lexical",
+    "rrf_k": 60,
+    "team_id": "equipe_16",
+    "title_boost": 1.0
+  },
+  "corpus_sha256": "11d03c09cc6fe841c328680a19f350a1155c8f7678329bd7f76413523313d76e",
+  "index": {
+    "dimension": null,
+    "documents": 10000,
+    "index": "ri-equipe_16-por_k07_b090"
+  },
+  "models": {},
+  "queries_sha256": "e70c7b7abe3cc489b9d47092f31fbf00c416a2eaec7ecc192d31217ca32bd5f3",
+  "run_sha256": "c450038a27d96c0f70abea983c9b9589e46c185da43f8860b74608b133c354d5",
+  "server": {
+    "build_date": "2026-09-23T01:01:31.883915140Z",
+    "build_hash": "4ee42a94e87f66fbf1e62a9871b1b87f91e02472",
+    "build_snapshot": false,
+    "build_type": "tar",
+    "distribution": "opensearch",
+    "lucene_version": "10.5.1",
+    "minimum_index_compatibility_version": "2.0.0",
+    "minimum_wire_compatibility_version": "2.19.0",
+    "number": "3.9.0"
+  }
+}
